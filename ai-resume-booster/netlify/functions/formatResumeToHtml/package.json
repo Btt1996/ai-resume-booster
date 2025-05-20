@@ -1,0 +1,14 @@
+{
+  "name": "format-resume-to-html-function",
+  "version": "1.0.0",
+  "description": "Netlify function to render JSONResume data to HTML using themes.",
+  "main": "formatResumeToHtml.js",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "jsonresume-theme-even": "^0.2.0",
+    "jsonresume-theme-caffeine": "^1.2.3",
+    "lodash": "^4.17.21",
+    "gravatar": "^1.8.2"
+  }
+}
+
